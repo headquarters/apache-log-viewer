@@ -1,0 +1,2 @@
+TODO: add heartbeat AJAX request to update the UI
+TODO: display all logs from /var/log/apache2/, then user can click to view one
