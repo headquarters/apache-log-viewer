@@ -7,6 +7,5 @@ Instead of viewing Apache logs in Terminal on a Mac like this:
 We can view them in a browser like this:
 ![Screenshot of browser on Mac OS X showing Apache logs](browser.png?raw=true)
 
-
-TODO: add heartbeat AJAX request to update the UI
-TODO: display all logs from /var/log/apache2/, then user can click to view one
+* TODO: add heartbeat AJAX request to update the UI
+* TODO: display all logs from /var/log/apache2/, then user can click to view one
