@@ -1,5 +1,8 @@
 This is a simple PHP script that pulls a log file from the Apache logs and formats it for display in a web browser.
 To set it up on your machine, pass in the Apache log file name to the SimpleLogViewer constructor in index.php.
+You may need to set permissions on your log file to view it. 
+
+Example: sudo chmod 755 /var/log/apache2/error.log
 
 Instead of viewing Apache logs in Terminal on a Mac like this:
 ![Screenshot of Mac OS X Terminal showing Apache logs](terminal.png?raw=true)
